@@ -46,7 +46,7 @@ I'm a passionate frontend developer focused on crafting seamless, performant web
 - ⚙️ Advanced TypeScript & Design Patterns  
 - 🌐 GraphQL API Integrations  
 - 🚀 Building reusable frontend systems  
-- 📦 Localization & scalable content with `getStaticProps` & `getStaticPaths`
+- 📦 Localization & scalable content.
 
 ---
 
