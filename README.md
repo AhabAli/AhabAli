@@ -1,21 +1,56 @@
-# 💫 About Me:
-### Hi there! 👋 I'm Ahab  <br>**Frontend Developer | React & Next.js Enthusiast | SaaS, E-Commerce, & API Specialist**<br><br>I’m a passionate frontend developer with a deep focus on building high-quality, responsive web applications. I specialize in crafting seamless user experiences using modern JavaScript frameworks like **React** and **Next.js**, coupled with cutting-edge styling solutions like **Tailwind CSS**.<br><br>### 💻 What I Do:<br>- **Frontend Development:** Expertise in **React**, **Next.js**, and **TypeScript** to build performant, scalable applications.<br>- **SaaS & E-Commerce Solutions:** Experience in creating **SaaS** products and large-scale **E-Commerce marketplaces** using **Next.js**, **MongoDB**, and **Express**.<br>- **Backend Development:** Crafting robust APIs and microservices with **NestJS** and **Node.js**.<br>- **Component Libraries:** Building dynamic and reusable components with **Material UI** and **Lucide icons** for seamless, modern UIs.<br>- **I18n & Localization:** Implementing internationalization with **i18next** and **next-i18next** for multilingual applications.<br>- **Payment & Analytics Integration:** Integrating payment gateways and analytics tools like **Google Analytics** and **Facebook Pixel** to track and enhance performance.<br><br>### 🛠️ Tech Stack:<br>- **Languages:** JavaScript (ES6+), TypeScript, PHP<br>- **Frameworks/Libraries:** React, Next.js, NestJS, Redux, Tailwind CSS, Material UI<br>- **Backend:** Node.js, Express, NestJS, MongoDB, Laravel, CodeIgniter<br>- **Tools:** Git, Webpack, Jest, Postman, Figma, Vercel<br><br>### 🔧 Currently Working On:<br>- Dynamic content with **getStaticProps** and **getStaticPaths** in **Next.js**<br>- Enhancing UI/UX for SaaS platforms and E-Commerce products<br>- Building scalable APIs with **NestJS**<br>- Localization support with **i18n** across multiple platforms<br><br>### 🌱 Always Learning:<br>- Advanced TypeScript Patterns<br>- API integration with **GraphQL** and **REST**<br><br>### 💬 Let's Connect:<br>Feel free to check out my repositories, raise issues, or contribute to any project! I'm always open to collaboration and new ideas.
+# 💫 About Me
+### Hi, I'm Ahab 👋  
+**Frontend Developer | React & Next.js Specialist | SaaS & E-Commerce Engineer**
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-ahab-ali/) 
-
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=flat-square&logo=alpinedotjs&logoColor=%238BC0D0) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat-square&logo=react) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat-square&logo=greensock&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=flat-square&logo=less&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AhabAli&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AhabAli&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhabAli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AhabAli&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I'm a passionate frontend developer focused on crafting seamless, performant web experiences. I specialize in building modern SaaS and eCommerce platforms using **React**, **Next.js**, **TypeScript**, and **Tailwind CSS** — with robust backend support using **NestJS** and **Node.js**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AhabAli&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Do
+
+- 🔧 **Frontend Engineering**  
+  Scalable, high-performance apps using **React**, **Next.js**, and **TypeScript**
+
+- 🛍️ **SaaS & E-Commerce Development**  
+  Full-featured platforms with **MongoDB**, **Express**, and **Next.js**
+
+- 🧱 **Component Libraries**  
+  Building modular UIs using **Material UI**, **Lucide**, and **Tailwind CSS**
+
+- 🌍 **Localization (i18n)**  
+  Multilingual-ready apps with **i18next** and **next-i18next**
+
+- 💳 **Payment & Analytics Integration**  
+  Integrating **Stripe**, **Google Analytics**, and **Meta Pixel**
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:**  
+`TypeScript`, `JavaScript (ES6+)`, `PHP`
+
+**Frontend:**  
+`React`, `Next.js`, `Redux`, `Tailwind CSS`, `MUI`, `Ant Design`, `Chakra UI`
+
+**Backend:**  
+`Node.js`, `Express`, `NestJS`, `MongoDB`, `Laravel`, `CodeIgniter`
+
+**Tools & Platforms:**  
+`Vercel`, `Supabase`, `Git`, `Figma`, `Postman`, `Jira`, `Trello`
+
+---
+
+## 🧠 Currently Learning & Building
+
+- ⚙️ Advanced TypeScript & Design Patterns  
+- 🌐 GraphQL API Integrations  
+- 🚀 Building reusable frontend systems  
+- 📦 Localization & scalable content with `getStaticProps` & `getStaticPaths`
+
+---
+
+## 🌎 Connect With Me
+
+I'm always open to collaborations, new ideas, or just a good dev chat.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ahab-ali/)
