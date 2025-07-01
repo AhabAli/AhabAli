@@ -1,8 +1,8 @@
 # 💫 About Me
 ### Hi, I'm Ahab 👋  
-**Frontend Developer | React & Next.js Specialist | SaaS & E-Commerce Engineer**
+**Senior Software Engineer | React & Next.js Specialist | SaaS & E-Commerce Engineer**
 
-I'm a passionate frontend developer focused on crafting seamless, performant web experiences. I specialize in building modern SaaS and eCommerce platforms using **React**, **Next.js**, **TypeScript**, and **Tailwind CSS** — with robust backend support using **NestJS** and **Node.js**.
+I'm a passionate frontend developer focused on crafting seamless, performant web experiences. I specialize in building modern SaaS and eCommerce platforms using **React**, **Next.js**, **TypeScript**, and **Tailwind CSS** — with robust backend support using **NestJS**,  **Node.js** and **Supabase**.
 
 ---
 
@@ -12,7 +12,7 @@ I'm a passionate frontend developer focused on crafting seamless, performant web
   Scalable, high-performance apps using **React**, **Next.js**, and **TypeScript**
 
 - 🛍️ **SaaS & E-Commerce Development**  
-  Full-featured platforms with **MongoDB**, **Express**, and **Next.js**
+  Full-featured platforms with **MongoDB**, **Express**, **Next.js** and **Supabase**
 
 - 🧱 **Component Libraries**  
   Building modular UIs using **Material UI**, **Lucide**, and **Tailwind CSS**
